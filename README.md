@@ -3,8 +3,7 @@
 Research project on the relationship between various factors and profit of refineries
 
 ## Summary
-Profit of refineries with larger refining facility are more affected by scale of facility and exchange fluctuations
-Refineries should consider realizing economy of scale on refining facility and hedging exchange risk to maximize profit
+Profit of refineries with larger refining facility are more affected by scale of facility and exchange fluctuations. Refineries should consider realizing economy of scale on refining facility and hedging exchange risk to maximize profit
 
 
 ## Data
