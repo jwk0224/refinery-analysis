@@ -21,7 +21,7 @@ Profit of refineries with larger refining facility are more affected by scale of
 ## Dependent variable
 - profit : EBITDA margin of a refinery
 
-## Research Process
+## Research process
 1. Data cleansing and pre-processing
 2. Multiple linear regression analysis (using plm package)
 3. Clustering based on the size of refining facility (using K-means clustering)
