@@ -1,15 +1,9 @@
 # regression-analysis
 
-Research project on the relationship between various factors and profit of refineries
+Research project on the relationship between various factors and profit of refineries with regression analysis
 
 ## Summary
 Profit of refineries with larger refining facility are more affected by scale of facility and exchange fluctuations. Refineries should consider realizing economy of scale on refining facility and hedging exchange risk to maximize profit
-
-## Research process
-1. Data cleansing and pre-processing
-2. Multiple linear regression analysis (using plm package)
-3. Clustering based on the size of refining facility (using K-means clustering)
-4. Multiple linear regression analysis by clusters
 
 ## Data
 22 x 14 panel data
@@ -25,3 +19,9 @@ Profit of refineries with larger refining facility are more affected by scale of
 
 ## Dependent variable
 - profit : EBITDA margin of a refinery
+
+## Research process
+1. Data cleansing and pre-processing
+2. Multiple linear regression analysis (using plm package)
+3. Clustering based on the size of refining facility (using K-means clustering)
+4. Multiple linear regression analysis by clusters
